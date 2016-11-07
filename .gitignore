@@ -1,0 +1,7 @@
+.classpath
+.project
+.tern-project
+co_portlet.iml
+.idea/
+.settings/
+target/
